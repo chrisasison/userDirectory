@@ -1,0 +1,16 @@
+#exampleModalLongTitle {
+    color: black;
+    margin: 0 auto;
+}
+
+.modal-body {
+    color: black !important;
+}
+
+#modal-a {
+    color: black;
+}
+
+#modal-img {
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+    text-align: center;
+}
+
+.dropdown_search {
+    margin-top: 1rem;
+}
+
+.table-container {
+    padding: 0 1rem;
+}
+
+th {
+    border: 1px solid white;
+}
+
+td, th {
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}

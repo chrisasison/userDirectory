@@ -1,0 +1,17 @@
+.form-group {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto !important;
+}
+
+form {
+    margin: 0 auto;
+}
+
+#see-all {
+    margin-left: 1rem;
+}
+
+#search, #searchbtn {
+    margin-left: 0.5rem;
+}
